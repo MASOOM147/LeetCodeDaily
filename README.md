@@ -21,7 +21,7 @@ This repository is dedicated to improving my problem-solving skills and sharing 
 Please feel free to explore the code, open issues, and submit pull requests to help make this repository a valuable resource for everyone interested in LeetCode problem-solving.
 
 3. **Explore the solutions:**
-- Each day's solution is organized in its own directory (e.g., `day1`, `day2`, etc.).
+- Each day's solution is organized with name of code (e.g., `1. Two Sum`, `2. Add Two Numbers`, etc.).
 - Inside each directory, you'll find the source code for the solution and, if available, explanations or additional notes in a README.
 
 ## Usage
